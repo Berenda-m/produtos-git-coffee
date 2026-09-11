@@ -1,0 +1,14 @@
+Instrução de uso da cola 
+
+Só poderá ser usado um produto de cada vez. 
+Você manda para fazer post um de cada vez 
+
+    {
+        "nome": "Strawberry Matcha Latte Gelado",
+        "descricao": "ingredientes: Chá verde matcha, purê de morango natural, leite, gelo e pedaços de morango. Uma combinação de matcha e morango com leite, servida bem gelada [bebida-gelada].",
+        "preco": 28.90,
+        "urlImagem": "https://raw.githubusercontent.com/Gregory-Santos/git-coffee/refs/heads/master/public/img/strawberry-matcha-latte-gelado.png"
+    }
+
+    FAZ o post, copia o outro e manda pro post.
+        
