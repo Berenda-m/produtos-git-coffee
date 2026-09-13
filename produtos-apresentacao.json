@@ -58,5 +58,59 @@
         "descricao": "Ingredientes: Café espresso diluído em água quente. Uma opção clássica e simples de espresso com água quente [bebida-quente].",
         "preco": 19.90,
         "urlImagem": "https://raw.githubusercontent.com/Gregory-Santos/git-coffee/refs/heads/master/public/img/cafe-americano.png"
+    },
+    {
+        "nome": "Brownie de Chocolate",
+        "descricao": "Ingredientes: Chocolate, farinha de trigo, açúcar, ovos e manteiga. Brownie de chocolate com massa densa e cobertura de chocolate [sobremesa].",
+        "preco": 18.90,
+        "urlImagem": "https://raw.githubusercontent.com/Gregory-Santos/git-coffee/refs/heads/master/public/img/brownie.png"
+    },
+    {
+        "nome": "Brownie de Chocolate",
+        "descricao": "Ingredientes: Chocolate, farinha de trigo, açúcar, ovos e manteiga. Brownie de chocolate com massa densa e cobertura de chocolate [sobremesa].",
+        "preco": 18.90,
+        "urlImagem": "https://raw.githubusercontent.com/Gregory-Santos/git-coffee/refs/heads/master/public/img/brownie.png"
+    },
+    {
+        "nome": "Cheesecake",
+        "descricao": "Ingredientes: Cream cheese, açúcar, ovos, biscoito e manteiga. Cheesecake clássico com base crocante e creme de queijo [sobremesa].",
+        "preco": 24.90,
+        "urlImagem": "https://raw.githubusercontent.com/Gregory-Santos/git-coffee/refs/heads/master/public/img/cheesecake.png"
+    },
+    {
+        "nome": "Cheesecake de Pistache",
+        "descricao": "Ingredientes: Cream cheese, açúcar, ovos, biscoito e manteiga. Cheesecake clássico com base crocante e creme de queijo [sobremesa].",
+        "preco": 26.90,
+        "urlImagem": "https://raw.githubusercontent.com/Gregory-Santos/git-coffee/refs/heads/master/public/img/cheesecake-pistache.png"
+    },
+    {
+        "nome": "Cheesecake de Paçoca",
+        "descricao": "Ingredientes: Cream cheese, amendoim, açúcar, ovos, biscoito e manteiga. Cheesecake de paçoca com creme de amendoim e base crocante [sobremesa].",
+        "preco": 25.90,
+        "urlImagem": "https://raw.githubusercontent.com/Gregory-Santos/git-coffee/refs/heads/master/public/img/cheesecake-pacoca.png"
+    },
+    {
+        "nome": "Red Velvet",
+        "descricao": "Ingredientes: Farinha de trigo, cacau, açúcar, ovos, manteiga e cream cheese. Bolo red velvet com camadas de massa e cobertura cremosa [sobremesa].",
+        "preco": 24.90,
+        "urlImagem": "https://raw.githubusercontent.com/Gregory-Santos/git-coffee/refs/heads/master/public/img/red-velvet.png"
+    },
+    {
+        "nome": "Café em Grãos - Torra Clara de Caramelo",
+        "descricao": "Ingredientes: Café em grãos, torra clara. Café em grãos com torra clara trufado de caramelo, embalagem de 500g [graos].",
+        "preco": 46.90,
+        "urlImagem": "https://raw.githubusercontent.com/Gregory-Santos/git-coffee/refs/heads/master/public/img/torra-clara-caramelo.png"
+    },
+    {
+        "nome": "Café em Grãos - Torra Média Original",
+        "descricao": "Ingredientes: Café em grãos, torra média. Café em grãos com torra média sabor tradicional, embalagem de 500g [graos].",
+        "preco": 46.90,
+        "urlImagem": "https://raw.githubusercontent.com/Gregory-Santos/git-coffee/refs/heads/master/public/img/torra-media-original.png"
+    },
+    {
+         "nome": "Café em Grãos - Torra Média Frutado",
+        "descricao": "Ingredientes: Café em grãos, torra média. Café em grãos com perfil frutado de frutas vermelhas, embalagem de 500g [graos].",
+        "preco": 46.90,
+        "urlImagem": "https://raw.githubusercontent.com/Gregory-Santos/git-coffee/refs/heads/master/public/img/torra-media-frutado.png"
     }
 ]
